@@ -1,0 +1,13 @@
+# Large game data / save files (excluded from repo)
+save_003.xml
+x4_data/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
